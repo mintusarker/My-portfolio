@@ -7,9 +7,9 @@ const Navbar = () => {
     const menuItems = <React.Fragment>
         <li><Link to='/'>Home</Link></li>
         {/* <li><Link to='/blogs'>Blogs</Link></li> */}
-        <li><Link to='/aboutMe'>About Me</Link></li>
         {/* <li><Link to='/contactMe'>Contact Me</Link></li> */}
-        <li><a href="https://form.jotform.com/223433372492455">Contact Me</a></li>
+        <li><a href="https://form.jotform.com/223432902621447">Contact Me</a></li>
+        <li><Link to='/aboutMe'>About Me</Link></li>
     </React.Fragment>
 
 

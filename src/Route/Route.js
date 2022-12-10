@@ -1,7 +1,5 @@
 import AboutMe from "../Pages/AboutMe/AboutMe";
-import ContactMe from "../Pages/ContactMe/ContactMe";
 import Home from "../Pages/Home/Home";
-
 const { createBrowserRouter } = require("react-router-dom");
 const { default: Main } = require("../Layout/Main");
 
@@ -15,10 +13,10 @@ const router = createBrowserRouter([
                 path: '/',
                 element: <Home></Home>
             },
-            {
-                path: '/contactMe',
-                element: <ContactMe></ContactMe>
-            },
+            // {
+            //     path: '/contactMe',
+            //     element: <ContactMe></ContactMe>
+            // },
             {
                 path: '/aboutMe',
                 element: <AboutMe></AboutMe>

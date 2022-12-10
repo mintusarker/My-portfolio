@@ -7,10 +7,10 @@ const ContactMe = () => {
         <div className='mt-10'>
             <h2 className='text-2xl text-center text-rose-600'>Contact With Me</h2>
 
-            <form action='' className='grid grid-cols-1 mx-auto w-1/2'>
+            <form className='grid grid-cols-1 mx-auto w-1/2'>
 
                 <div className="form-control">
-                    <label className="label"><span className="label-text">Your Name</span></label>
+                    <label className="label"><span className="label-text">Your Name <span className='text-red-500'>*</span></span></label>
                     <input name='name' type="text" className="input input-bordered" required />
                 </div>
 
@@ -24,7 +24,7 @@ const ContactMe = () => {
                     <input name='number' type="text" className="input input-bordered" required />
                 </div>
 
-                <div className='w-full mx-auto grid grid-cols-1'>
+                <div className='w-full h-60 mx-auto grid grid-cols-1'>
                     <textarea name='message' className="textarea textarea-accent my-5" placeholder="Your text put here" required></textarea>
                 </div>
 

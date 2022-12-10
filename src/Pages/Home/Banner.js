@@ -18,7 +18,7 @@ const Banner = () => {
         <div className="my-10" style={{ background: '' }}>
             <div className="hero-content flex-col lg:flex-row">
                 <div className='text-center w-1/2'>
-                    <h4 className="text-xl mb-3 text-rose-600 font-bold">Hello, I am Mintu</h4>
+                    <h4 className="text-xl mb-3 text-rose-600 font-bold">Hello, I am Mintu. <br /> I am a Web Developer</h4>
                     <div className='text-2xl my-5'>
                         <Typical wrapper="span" steps={steps} loop={Infinity} />
                     </div>
