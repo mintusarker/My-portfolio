@@ -9,10 +9,10 @@ const Projects = () => {
         <div className='my-12'>
             <h1 className='text-3xl font-semibold text-rose-500 text-center'>Projects</h1>
             <div className='gap-10 my-10 px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
-                <div className="card bg-base-100 shadow-xl transform hover:bg-slate-300 transition duration-500 hover:scale-110">
+                <div className="card shadow-xl transform transition duration-500 hover:scale-110">
                     <figure><img className='h-40 w-full' src={img} alt="" /></figure>
                     <div className="card-body shadow-lg shadow-slate-100">
-                        <h2 className="card-title text-3xl text-orange-500 mb-4 justify-center">Resell Market</h2>
+                        <h2 className="card-title text-3xl text-blue-500 mb-4 justify-center">Resell Market</h2>
                         <p> * Use two type login system Like Email-password and Google.</p>
                         <p>* This Site has different page like login, register, products, category, dashboard etc.</p>
                         <p>* Private Route, Admin Route, Buyer Route, Seller Route, Responsive, Use MongoDB database.</p>
@@ -21,10 +21,10 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div className="card bg-base-100 shadow-xl transform hover:bg-slate-300 transition duration-500 hover:scale-110">
+                <div className="card bg-base-100 shadow-xl transform transition duration-500 hover:scale-110">
                     <figure><img className='h-40 w-full' src={learn5} alt="Shoes" /></figure>
                     <div className="card-body shadow-lg shadow-slate-100">
-                        <h2 className="card-title text-3xl text-orange-500 mb-4 justify-center">Learning Point</h2>
+                        <h2 className="card-title text-3xl text-blue-500 mb-4 justify-center">Learning Point</h2>
                         <p> * Login Authentication with Google, Email & Password and GitHub.</p>
                         <p>* This project has different pages like Login, Register, Courses, Blogs, FAQ, Details.</p>
                         <p>* Private Route. Responsive, Use MongoDB database </p>
@@ -33,10 +33,10 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div className="card bg-base-100 shadow-xl transform hover:bg-slate-300 transition duration-500 hover:scale-110">
+                <div className="card bg-base-100 shadow-xl transform transition duration-500 hover:scale-110">
                     <figure><img className='h-40 w-full' src={travel} alt="Shoes" /></figure>
                     <div className="card-body shadow-lg shadow-slate-100">
-                        <h2 className="card-title text-3xl text-orange-500 mb-4 justify-center">My Tourist Guide</h2>
+                        <h2 className="card-title text-3xl text-blue-500 mb-4 justify-center">My Tourist Guide</h2>
                         <p> * Use two type login system Like Email-password and Google.</p>
                         <p>* This Site has different page like login, register, Review, services etc.</p>
                         <p>* Private Route, MongoDB CRUD operation, Responsive.</p>
