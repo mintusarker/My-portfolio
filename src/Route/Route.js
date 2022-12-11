@@ -1,6 +1,6 @@
 import AboutMe from "../Pages/AboutMe/AboutMe";
 import Blogs from "../Pages/Blogs/Blogs";
-import ContactMe from "../Pages/ContactMe/ContactMe";
+// import ContactMe from "../Pages/ContactMe/ContactMe";
 import LearningDetail from "../Pages/DetailProjects/LearningDetail";
 import ResellDetail from "../Pages/DetailProjects/ResellDetail";
 import TouristDetail from "../Pages/DetailProjects/TouristDetail";
@@ -19,10 +19,10 @@ const router = createBrowserRouter([
                 path: '/',
                 element: <Home></Home>
             },
-            {
-                path: '/contactMe',
-                element: <ContactMe></ContactMe>
-            },
+            // {
+            //     path: '/contactMe',
+            //     element: <ContactMe></ContactMe>
+            // },
             {
                 path: '/aboutMe',
                 element: <AboutMe></AboutMe>
