@@ -18,11 +18,11 @@ const Banner = () => {
         <div className="my-10" style={{ background: '' }}>
             <div className="hero-content flex-col lg:flex-row">
                 <div className='text-center w-1/2'>
-                    <h4 className="text-xl mb-3 text-rose-600 font-bold">Hello, I am Mintu. <br /> I am a Web Developer</h4>
+                    <h4 className="text-xl mb-3 text-rose-600 font-bold">Hello, I am Minto<br /> I am a Web Developer</h4>
                     <div className='text-2xl my-5'>
                         <Typical wrapper="span" steps={steps} loop={Infinity} />
                     </div>
-                    <a href="Resume.pdf"><button className='btn btn-primary rounded'>My Resume</button></a>
+                    <a href="Resume.pdf" download='Resume.pdf'><button className='btn btn-primary rounded'>Download Resume</button></a>
                 </div>
                 <img src={image2} alt='' className="lg:w-1/2 rounded-lg shadow-2xl" />
             </div>
