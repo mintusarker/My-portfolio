@@ -27,17 +27,17 @@ const TouristDetail = () => {
                 <h2 className='text-xl mb-4 text-rose-500 font-semibold'>Project Description :</h2>
                 <p className='text-lg'>
 
-                    * This website create base on personal tourist guide service. <br />
+                    * This website creates based on a personal tour guide service. <br />
 
-                    * This projects are also completed by tailwind, daisy ui, react router, react hot toast, vanilla Css, react etc. <br />
+                    * This project is also completed by tailwind, daisy UI, react-router, react hot toast, vanilla CSS, react etc <br />
 
-                    * The projects also completed by using mongodb database which is special. <br />
+                    * The project was also completed by using the MongoDB database. <br />
 
                     * This project has different pages like login, Sign Up, Services, review details etc. <br />
 
-                    * Using two types of login method like email-password based and with Google. <br />
+                    * Use two types of login methods email-password-based and Google.. <br />
 
-                    * This project responsive for mobile and desktop. <br />
+                    * This project is responsive for mobile and desktop. <br />
 
                     * Create Private route <br />
 

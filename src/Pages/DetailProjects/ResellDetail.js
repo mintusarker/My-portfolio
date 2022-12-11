@@ -26,21 +26,21 @@ const ResellDetail = () => {
             <div className='border rounded border-lime-400 p-8 my-10'>
                 <h2 className='text-xl mb-4 text-rose-500 font-semibold'>Project Description :</h2>
                 <p className='text-lg'>
-                    * This website create base on resell product sell service. <br />
+                    * This website creates based on reselling product sell service. <br />
 
-                    * This project are also completed by tailwind, daisy ui, react router, react hot toast, react etc. <br />
+                    * This project is also completed by tailwind, daisy UI, react-router, react hot toast, react, etc.<br />
 
-                    * The project also completed by using mongodb database which is special. <br />
+                    * The project was also completed by using the MongoDB database.<br />
 
-                    * This project has different pages home page, like login, Sign Up, Services, My order, add product etc. <br />
+                    * This project has different pages like Login, Sign Up, Services, My order, add product etc. <br />
 
                     * Create Private route, Admin route. <br />
 
-                    * create some custom hooks like UseAmin, UseSeller, UseBuyer, useToken . <br />
+                    * Create some custom hooks like UseAdmin, UseSeller, UseBuyer and useToken. <br />
 
-                    * Using two type of login method like email-password based and with Google. <br />
+                    * Use two types of login methods email-password-based and Google. <br />
 
-                    * This project responsive for mobile and desktop. <br />
+                    * This project is responsive for mobile and desktop. <br />
 
                     * Technology: React.js, Node.js, Express.js, Firebase, Stripe, Vercel, Tailwind, Daisy UI, JWT <br />
                 </p>

@@ -26,19 +26,13 @@ const LearningDetail = () => {
             <div className='border rounded border-lime-400 p-8 my-10'>
                 <h2 className='text-xl mb-4 text-rose-500 font-semibold'>Project Description :</h2>
                 <p className='text-lg'>
-                    * Using three types of login method like email-password based, with Google, with Github. <br />
-
+                    * Use three types of login methods email-password-based, Google, with Github. <br />
                     * This site is a learning programming website.  <br />
-
-                    * This Project are contain blogs, FAQ pages. <br />
-
-                    * This project are also completed by bootstrap, react bootstrap, react router, react icon, vanilla Css, react etc. <br />
-
-                    * This project have different pages like login, register, courses, details etc. <br />
-
-                    * This project responsive for mobile and desktop. <br />
-
-                    * The project also completed by using mongodb database.<br />
+                    * This Project contains blogs and FAQ pages. <br />
+                    * This project is also completed by bootstrap, react-bootstrap, react-router, react icon, vanilla CSS, and react. <br />
+                    * This project has different pages like login, register, courses, details, etc <br />
+                    * This project is responsive for mobile and desktop. <br />
+                    * The project was completed by using the MongoDB database.<br />
 
                     * Technology: React.js, Node.js, Express.js, Firebase, Bootstraps, React Bootstrap. <br />
 

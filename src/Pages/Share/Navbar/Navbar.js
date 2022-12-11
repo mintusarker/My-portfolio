@@ -25,7 +25,7 @@ const Navbar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <a href='/' className="text-rose-500 normal-case text-2xl">My Portfolio</a>
+                <a href='/' className="text-rose-500 font-semibold normal-case text-2xl">My Portfolio</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
